@@ -65,8 +65,8 @@ Create a Virtual Machine:
 - Edit osTicket configuration files to set up the database connection and other settings.
 - Access osTicket via a web browser and complete the web-based setup. 
 
-<h3>Test and Verify</h3>
-1. Test osTicket Installation:
+<h3>Step 3: Test and Verify</h3>
+  1. Test osTicket Installation:
 
 - Access the osTicket portal in your web browser.
 - Create a test ticket and verify its functionality.
